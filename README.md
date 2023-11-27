@@ -1,2 +1,3 @@
 ### personal information  
-rabiul miah
+rabiul miah  
+personal details
